@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="hello">Hello World!</string>
+    <string name="button">Привет!</string>
+    <string name="afterClick">Хэллоу Уолд!</string>
+    <string name="button1">button1</string>
+    <string name="icon1">icon1</string>
+    <string name="text1">Name</string>
+</resources>
