@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Привет</string>
+    <string name="hello">Привет, Мир!</string>
+    <string name="button">Hello!</string>
+    <string name="afterClick">Privet mir</string>
+    <string name="button1">кнопка</string>
+    <string name="icon1">иконка</string>
+    <string name="text1">что-то</string>
+    <string name="text2">Text has changed</string>
+</resources>

@@ -6,4 +6,5 @@
     <string name="button1">button1</string>
     <string name="icon1">icon1</string>
     <string name="text1">Name</string>
+    <string name="text2">Текст изменился</string>
 </resources>
